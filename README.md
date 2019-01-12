@@ -3,7 +3,7 @@ Este site é um site temporário do Rio Hacker Maker Space. A ideia é que este 
 
 ## Como inserir conteúdo?
 
-* git clone git@github.com:RioHackerMakerSpace/rhms.github.io.git
+* git clone git@github.com:RioHackerMakerSpace/RioHackerMakerSpace.github.io.git
 * git pull
 * edite o html na parte que deseja alterar.
 * git commit -m "comentário da alteração".
